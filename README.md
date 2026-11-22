@@ -1,22 +1,26 @@
-# FoodOnTheGo · Solicitud de eliminación de cuenta
+# FoodOnTheGo · Proyecto de Fin de Grado (Android)
 
-Página estática en español que explica cómo solicitar la eliminación de una cuenta y de los datos asociados a FoodOnTheGo.
+**FoodOnTheGo** fue el proyecto de fin de grado de **JLC**, consistente en una aplicación Android para **pedir comida a domicilio**.
 
-## Contenido
+> **Estado del repositorio:** este repositorio **no contiene el código fuente de la aplicación Android**. Actualmente publica únicamente una página web informativa relacionada con la solicitud de eliminación de cuentas y datos. No debe confundirse esta página auxiliar con la aplicación completa.
 
-- [index.html](index.html): procedimiento de solicitud, datos afectados y periodo de retención indicado.
-- GitHub Pages está habilitado en este repositorio.
+## Contexto del proyecto
 
-## Vista local
+FoodOnTheGo nació como un trabajo académico de desarrollo de aplicaciones móviles enfocado en el proceso de pedido de comida a domicilio. La aplicación original se desarrolló para Android. La arquitectura interna, lenguajes, servicios externos, pantallas y funciones específicas no pueden verificarse desde el contenido disponible aquí y no se presentan como implementados.
 
-Abre `index.html` en el navegador. No necesita Node.js, dependencias ni compilación.
+## Contenido publicado
 
-## Mantenimiento
+- [index.html](index.html): página informativa sobre solicitudes de eliminación de cuenta/datos.
+- [README.md](README.md): contexto histórico y aclaración del alcance del repositorio.
 
-La página documenta un procedimiento de contacto; no ejecuta por sí misma la eliminación de cuentas. Para actualizar el texto, modifica `index.html` y revisa los cambios antes de publicarlos. El canal de contacto y los plazos operativos están definidos en esa página.
+## ¿Dónde está la aplicación Android?
 
-Repositorio mantenido por **UlysesX12**. Esta revisión organiza la documentación y conserva el procedimiento publicado.
+El código original (proyecto Android Studio, APK, capturas o memoria del proyecto) **no ha sido incorporado a este repositorio**. Si se recuperan los archivos originales y se comprueban permisos y datos sensibles, se podrán añadir en una revisión posterior.
 
-## Más proyectos
+## Página informativa
 
-Consulta el [catálogo de proyectos públicos](https://github.com/UlysesX12/WebSite/blob/main/docs/PROYECTOS.md).
+La página de `index.html` no elimina datos por sí misma: únicamente indica un procedimiento para solicitarlo. La validez de los canales de contacto y de los plazos debe comprobarse antes de utilizarla como aviso operativo.
+
+## Autoría
+
+**JLC DevLab** · Proyecto académico de fin de grado. No se atribuye a este repositorio funcionalidad que no contiene.
